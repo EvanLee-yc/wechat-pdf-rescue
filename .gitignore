@@ -1,0 +1,13 @@
+# 提取输出目录
+wx_extracted/
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# macOS
+.DS_Store
